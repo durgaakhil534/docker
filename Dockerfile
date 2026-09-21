@@ -1,4 +1,4 @@
-FROM NGINX
+FROM nginx
 EXPOSE 80
 MAINTAINER AKHIL
 LABEL this is first docker build in jenkins
